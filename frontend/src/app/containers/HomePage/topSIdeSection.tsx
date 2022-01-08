@@ -3,7 +3,6 @@ import styled from "styled-components";
 import tw from "twin.macro";
 
 import logo from "../../../assets/images/dog2.svg";
-import blob from "../../../assets/images/blob.svg";
 import { SCREENS } from "../../components/responsive";
 import { Button } from "../../components/button";
 

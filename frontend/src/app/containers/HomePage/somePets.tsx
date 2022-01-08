@@ -1,4 +1,4 @@
-import React, { Dispatch, useEffect, useState } from "react";
+import React, { useState } from "react";
 import styled from "styled-components";
 import tw from "twin.macro";
 import Carousel, { Dots, slidesToShowPlugin } from "@brainhubeu/react-carousel";

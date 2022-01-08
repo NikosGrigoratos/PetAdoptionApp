@@ -1,5 +1,4 @@
 import {
-  faCalendarAlt,
   faDog,
   faMapMarkedAlt,
   faPhone,

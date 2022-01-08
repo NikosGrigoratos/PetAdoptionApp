@@ -5,8 +5,6 @@ import { Footer } from "../../components/footer";
 import { Navbar } from "../../components/Navbar";
 import { FilteredPets } from "./filteredPets";
 import { SearchBar } from "./Searchbar";
-import {useSelector} from "react-redux"
-import {Pet} from "../../../typings/pet"
 import { FilterPets } from "./filterPets";
 
 const PageContainer = styled.div`
